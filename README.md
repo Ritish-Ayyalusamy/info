@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pecanpeaches
+- 👋 Hi, I’m @Ritish Ayyalusamy
 - 👀 I’m interested in python R machine learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on
